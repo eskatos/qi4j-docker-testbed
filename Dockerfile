@@ -1,8 +1,5 @@
 # Qi4j Testbed
 #
-# Build with: docker build . -t <yourname>/qi4j-testbed
-# Run with: docker run -p 11211:11211 -p 6379:6379 -p 27017:27017 -d <yourname>/qi4j-testbed
-#
 # VERSION 1
 
 FROM ubuntu:12.04
